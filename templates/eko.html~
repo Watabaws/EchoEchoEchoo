@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title> Input test results! </title>
+    </head>
+    <body>
+        <center>
+        <h1> Welcome <font color="red"> {{ user }} </font></h1>
+        <br><br>
+        <h4> How are you doing today <font color="red">{{ user }}</font>? </h4>
+        </center>
+    </body>
+</html>
